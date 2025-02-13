@@ -1,6 +1,6 @@
 # Gold Standard Streamlit Application
 
-A Streamlit app that displays sales data for a Gold Standard competition.
+A Streamlit app that displays sales data for the *Gold Standard* leaderboard.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://purelight-goals.streamlit.app/)
 
